@@ -1,0 +1,15 @@
+C:\Users\chuck\OneDrive\Documents\projects\c#\Web_server\obj\Debug\net7.0\Web_server.csproj.AssemblyReference.cache
+C:\Users\chuck\OneDrive\Documents\projects\c#\Web_server\obj\Debug\net7.0\Web_server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chuck\OneDrive\Documents\projects\c#\Web_server\obj\Debug\net7.0\Web_server.AssemblyInfoInputs.cache
+C:\Users\chuck\OneDrive\Documents\projects\c#\Web_server\obj\Debug\net7.0\Web_server.AssemblyInfo.cs
+C:\Users\chuck\OneDrive\Documents\projects\c#\Web_server\obj\Debug\net7.0\Web_server.csproj.CoreCompileInputs.cache
+C:\Users\chuck\OneDrive\Documents\projects\c#\Web_server\bin\Debug\net7.0\Web_server.exe
+C:\Users\chuck\OneDrive\Documents\projects\c#\Web_server\bin\Debug\net7.0\Web_server.deps.json
+C:\Users\chuck\OneDrive\Documents\projects\c#\Web_server\bin\Debug\net7.0\Web_server.runtimeconfig.json
+C:\Users\chuck\OneDrive\Documents\projects\c#\Web_server\bin\Debug\net7.0\Web_server.dll
+C:\Users\chuck\OneDrive\Documents\projects\c#\Web_server\bin\Debug\net7.0\Web_server.pdb
+C:\Users\chuck\OneDrive\Documents\projects\c#\Web_server\obj\Debug\net7.0\Web_server.dll
+C:\Users\chuck\OneDrive\Documents\projects\c#\Web_server\obj\Debug\net7.0\refint\Web_server.dll
+C:\Users\chuck\OneDrive\Documents\projects\c#\Web_server\obj\Debug\net7.0\Web_server.pdb
+C:\Users\chuck\OneDrive\Documents\projects\c#\Web_server\obj\Debug\net7.0\Web_server.genruntimeconfig.cache
+C:\Users\chuck\OneDrive\Documents\projects\c#\Web_server\obj\Debug\net7.0\ref\Web_server.dll
